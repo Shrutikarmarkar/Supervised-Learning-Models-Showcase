@@ -1,1 +1,2 @@
 # Supervised-Learning-Models-Showcase
+Welcome to the Supervised Learning Models Showcase repository! This compilation of projects demonstrates my proficiency in creating, training, and evaluating supervised machine learning models. Supervised learning involves using labeled training data to build predictive models that can make accurate predictions on unseen data. Each project here showcases the application of different algorithms and techniques to tackle various real-world problems.
